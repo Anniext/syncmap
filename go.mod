@@ -1,4 +1,4 @@
-module github.com/Anniext/go-syncmap
+module github.com/Anniext/syncmap
 
 go 1.23.0
 
